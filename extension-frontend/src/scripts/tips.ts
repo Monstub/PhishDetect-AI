@@ -4,48 +4,48 @@ export class Tip {
 
 const list_of_tips = [
 	new Tip(
-		"Keep software up-to-date",
-		"Companies typically provide updates for 3 reasons: to add new features, fix known bugs, and upgrade security."
+		"Regularly Backup Your Data",
+		"Regular backups protect your data against accidental loss, hardware failure, and malware attacks."
 	),
 	new Tip(
-		"Use strong passwords",
-		"A strong password is one that's either not easily guessed or not easily brute forced."
+		"Enable Automatic Updates",
+		"Setting your devices to update automatically ensures you always have the latest security patches and features."
 	),
 	new Tip(
-		"Use a password manager",
-		"Password managers are a great way to store all your passwords in one place and generate strong passwords for you."
+		"Be Wary of Phishing Scams",
+		"Always verify the sender's identity before clicking on links or downloading attachments from unknown emails."
 	),
 	new Tip(
-		"Don't reuse passwords",
-		"If you reuse passwords, and one of your accounts is compromised, all your accounts are compromised."
+		"Secure Your Wi-Fi Network",
+		"Change the default login credentials and use WPA3 encryption to protect your home network."
 	),
 	new Tip(
-		"Use 2FA",
-		"2FA is a great way to add an extra layer of security to your accounts."
+		"Educate Yourself on Cybersecurity",
+		"Stay informed about the latest cybersecurity threats and best practices to protect your digital life."
 	),
 	new Tip(
-		"Use a VPN",
-		"A VPN is a great way to protect your privacy online. It encrypts your internet traffic."
+		"Monitor Your Accounts Regularly",
+		"Regularly check your bank and credit card statements for any unauthorized transactions."
 	),
 	new Tip(
-		"Use a firewall",
-		"A firewall is a great way to protect your computer from malicious programs."
+		"Use End-to-End Encryption",
+		"Use apps and services that offer end-to-end encryption to keep your communications private."
 	),
 	new Tip(
-		"Use an ad blocker",
-		"An ad blocker is a great way to protect your computer from malicious ads."
+		"Disable Unnecessary Services",
+		"Turn off Bluetooth, Wi-Fi, and location services when they are not in use to reduce potential vulnerabilities."
 	),
 	new Tip(
-		"Use a spam filter",
-		"A spam filter is a great way to protect your computer from spam."
+		"Review App Permissions",
+		"Regularly review the permissions granted to apps on your devices and revoke any that are unnecessary."
 	),
 	new Tip(
-		"Use a phishing filter",
-		"A phishing filter is a great way to protect your computer from phishing."
+		"Beware of Public Wi-Fi",
+		"Avoid accessing sensitive information over public Wi-Fi networks, or use a VPN if necessary."
 	),
 	new Tip(
-		"Use a malware scanner",
-		"A malware scanner is a great way to protect your computer from malware."
+		"Enable Device Encryption",
+		"Encrypt your devices to protect your data in case your device is lost or stolen."
 	),
 ];
 
